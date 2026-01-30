@@ -1,0 +1,95 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "weapon": "MAC-10",
+            "name": "Disco Tech",
+            "price": 10,
+            "quality": "Factory New",
+            "image": "https://cdn.xplay.gg/img/store/46377229799_icon.png",
+            "category": "SMG",
+            "state": "ready",
+            "float": 0.0815
+        },
+        {
+            "id": 2,
+            "weapon": "Galil AR",
+            "name": "Control",
+            "price": 10,
+            "quality": "Minimal Wear",
+            "image": "https://cdn.xplay.gg/img/store/48093740911_icon.png",
+            "category": "Rifle",
+            "state": "ready",
+            "float": 0.1205
+        },
+        {
+            "id": 3,
+            "weapon": "Glock-18",
+            "name": "Coral Bloom",
+            "price": 10,
+            "quality": "Minimal Wear",
+            "image": "https://cdn.xplay.gg/img/store/47021319645_icon.png",
+            "category": "Pistol",
+            "state": "ready",
+            "float": 0.0954
+        },
+        {
+            "id": 4,
+            "weapon": "StatTrak™ M4A1-S",
+            "name": "Emphorosaur-S",
+            "price": 10,
+            "quality": "Field-Tested",
+            "image": "https://cdn.xplay.gg/img/store/46377228775_icon.png",
+            "category": "Rifle",
+            "state": "ready",
+            "float": 0.1421
+        },
+        {
+            "id": 5,
+            "weapon": "P250",
+            "name": "Red Tide",
+            "price": 10,
+            "quality": "Minimal Wear",
+            "image": "https://cdn.xplay.gg/img/store/47021319842_icon.png",
+            "category": "Pistol",
+            "state": "ready",
+            "float": 0.0789
+        },
+        {
+            "id": 6,
+            "weapon": "StatTrak™ P2000",
+            "name": "Obsidian",
+            "price": 10,
+            "quality": "Battle-Scarred",
+            "image": "https://cdn.xplay.gg/img/store/48699991379_icon.png",
+            "category": "Pistol",
+            "state": "tradeban",
+            "float": 0.1132
+        },
+        {
+            "id": 7,
+            "weapon": "SG 553",
+            "name": "Pulse",
+            "price": 10,
+            "quality": "Well-Worn",
+            "image": "https://cdn.xplay.gg/img/store/48905728264_icon.png",
+            "category": "Rifle",
+            "state": "ready",
+            "float": 0.1005
+        }
+    ],
+    "categories": [
+        {
+            "id": "A",
+            "name": "Category A"
+        },
+        {
+            "id": "B",
+            "name": "Category B"
+        },
+        {
+            "id": "C",
+            "name": "Category C"
+        }
+    ]
+}
